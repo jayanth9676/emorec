@@ -1,0 +1,4 @@
+openai-whisper
+pretty_midi
+transformers
+moviepy

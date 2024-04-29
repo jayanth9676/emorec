@@ -1,0 +1,70 @@
+python main.py --n_labels 7 --midi_file_path "John Lennon - Imagine.mid"python main.py --n_labels 7 --midi_file_path "John Lennon - Imagine.mid"
+
+python main.py --n_labels 7 --lyrics "I've been tryna call     
+I've been on my own for long enough
+Maybe you can show me how to love, maybe
+I'm going through withdrawals    
+You don't even have to do too much
+You can turn me on with just a touch, baby"
+
+
+
+
+
+python main.py --midi_file_path "John Lennon - Imagine.mid" 
+
+python main.py --lyrics "I'm scared, of the mountain           
+Of the river, of the fire
+Of the sound of lightning in the sky
+Those sounds make me wanna cry"
+
+python main.py --lyrics "I hope some day you'll join us. And the world will be as one"
+
+python main.py --lyrics "Spent 24 hours, I need more hours with you                                                              
+We spent the late nights making things right between us
+You spent the weekend getting even, ooh 
+But now it's all good, babe          
+Roll that back wood, babe
+And play me close
+'Cause girls like you run 'round with guys like me
+'Til sun down when I come through
+I need a girl like you, yeah yeah
+Girls like you love fun and, yeah, me too
+What I want when I come through
+I need a girl like you, yeah yeah"
+
+python main.py --lyrics "Once upon a time
+There lived a ghost
+He was known to be a killer
+And feared the most
+The eagle is comin'
+You better start runnin'
+His blood is rushin'
+Stunnin' and gunnin'
+The eagle is comin'
+You better start runnin'
+His blood is rushin'
+Stunnin' and gunnin'
+Once upon a time
+There lived a ghost
+He was known to be a killer
+And feared the most
+"
+
+
+
+
+
+
+python main.py --audio_text_file_path "transcription.txt" 
+python main.py --audio_text_file_path "AudioLyrics\Unstoppable\Unstoppable_small.txt"  
+
+
+
+
+python main.py --audio_file_path "AudioLyrics\audio_songs\Unstoppable_small.mp3"
+
+
+
+
+python main.py --video_file_path "AudioLyrics\video_songs\see-you-again.mp4"
